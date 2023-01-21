@@ -1,0 +1,4 @@
+import numpy as np
+version = np.__1.21__
+with open("numpy_version.txt", "w") as f:
+    f.write(version)
