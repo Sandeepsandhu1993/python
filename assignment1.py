@@ -1,2 +1,3 @@
 import numpy as np
-print(np.arange(10))
+arr = np.arange(10)
+print(arr)
